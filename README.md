@@ -3,7 +3,7 @@
 ## Descrição
 Trabalho para a disciplina SIN392 - Processamento Digital de Imagens. Este projeto implementa um sistema de processamento de imagens com interface gráfica, contendo operações de processamento digital. 
 
-*Link para o vídeo da apresentação do trabalho:*
+*Link para o vídeo da apresentação do trabalho:* https://youtu.be/R2EYflkA9Qc
 
 O sistema permite:
 
